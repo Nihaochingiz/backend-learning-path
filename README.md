@@ -3,4 +3,4 @@
 - [x] [Изучаем JavaScript](https://stepik.org/course/242365/syllabus?auth=login)
 - [x] [Проверка знаний и подготовка к собеседованию по JavaScript](https://stepik.org/course/189305/syllabus?auth=login)
 - [x] [Backend разработка на PHP](https://stepik.org/course/250558/reviews?auth=login)
-- [ ] [sql-academy](https://sql-academy.org/ru)
+- [x] [sql-academy](https://sql-academy.org/ru)
