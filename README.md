@@ -4,5 +4,5 @@
 - [x] [Проверка знаний и подготовка к собеседованию по JavaScript](https://stepik.org/course/189305/syllabus?auth=login)
 - [x] [Backend разработка на PHP](https://stepik.org/course/250558/reviews?auth=login)
 - [x] [sql-academy](https://sql-academy.org/ru)
-- [] [PHP - первое знакомство](https://stepik.org/course/87314/syllabus)
-- [] [PHP Track Exercism](https://exercism.org/tracks/php)
+- [ ] [PHP - первое знакомство](https://stepik.org/course/87314/syllabus)
+- [ ] [PHP Track Exercism](https://exercism.org/tracks/php)
