@@ -4,4 +4,6 @@
 - [x] [Проверка знаний и подготовка к собеседованию по JavaScript](https://stepik.org/course/189305/syllabus?auth=login)
 - [x] [Backend разработка на PHP](https://stepik.org/course/250558/reviews?auth=login)
 - [x] [sql-academy](https://sql-academy.org/ru)
+- [x] [sql-academy](https://sql-academy.org/ru)
+- [ ] [Python-разработчик](https://stepik.org/course/122813/syllabus)
 - [ ] [Roadmap Python](https://teletype.in/@gardiys/R0sfZLO3Bpl#mHTT)
