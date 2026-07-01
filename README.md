@@ -7,4 +7,5 @@
 - [x] [Python-разработчик](https://stepik.org/course/122813/syllabus)
 - [x] [Python Crash Course. Book Eric Matthes](https://ehmatthes.github.io/pcc/)
 - [x] [Senjun Course Python](https://senjun.ru/courses/python)
+- [ ] [Python academy trainer](https://python-academy.org/ru/trainer)
 - [ ] [Roadmap Python](https://teletype.in/@gardiys/R0sfZLO3Bpl#mHTT)
